@@ -61,12 +61,11 @@ html, body {
 }
 
 .pt-page h1 span {
-    font-family: 'Satisfy', serif;
-    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
     font-size: 40%;
     text-transform: none;
     word-spacing: 0;
-    letter-spacing: 0;
+    letter-spacing: 10px;
     display: block;
     opacity: 0.7;
 }
