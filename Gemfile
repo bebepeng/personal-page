@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
-ruby '2.1.1'
-
-gem 'rack', '~> 1.5.2'
+gem 'sinatra', '~> 1.4.4'
+gem 'sequel', '~> 4.9.0'
+gem 'dotenv', '~> 0.10.0'
+gem 'pg', '~> 0.17.1'
