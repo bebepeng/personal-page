@@ -37,15 +37,16 @@ a:hover {
 
 /* Header Style */
 .codrops-top {
-	background: #fff;
-	background: rgba(255, 255, 255, 0.1);
+    padding: 0 3%;
+	/*background: #fff;*/
+	/*background: rgba(255, 255, 255, 0.1);*/
 	text-transform: uppercase;
 	position: fixed;
 	width: 100%;
-	font-size: 0.68em;
-	line-height: 2.2;
+	font-size: 1em;
+	line-height: 4;
 	z-index: 50000;
-	top: 0;
+	top: 250px;
 	left: 0;
 }
 
