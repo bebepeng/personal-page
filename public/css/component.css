@@ -59,7 +59,7 @@ html, body { height: 100%; }
 }
 
 .page-content {
-    background-color: rgba(255,255,255,0.2);
+    background-color: rgba(255,255,255,0.1);
     position: absolute;
     font-weight: 300;
     margin: 350px auto;
@@ -68,8 +68,8 @@ html, body { height: 100%; }
     padding: 2% 22%;
     font-size: 140%;
 }
-.page-content p{
-
+.small{
+font-size: 80%;
 }
 
 .pt-page h1 span {
