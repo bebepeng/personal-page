@@ -70,7 +70,7 @@ html, body {
     opacity: 0.7;
 }
 
-.pt-page h1 strong {
+.pt-page h1 strong, .pt-page h2 strong {
     color: rgba(0, 0, 0, 0.2);
 }
 .page-content {
