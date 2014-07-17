@@ -36,7 +36,7 @@ var PageTransitions = (function () {
         return false;
       }
 
-      animcursor = 36;
+      animcursor = 28;
 
       nextPage(animcursor);
       ++animcursor;
@@ -47,7 +47,7 @@ var PageTransitions = (function () {
         return false;
       }
 
-      animcursor = 36;
+      animcursor = 29;
 
       previousPage(animcursor);
       ++animcursor;
