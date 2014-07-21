@@ -90,14 +90,23 @@ a:hover {
 .codrops-icon-archive:before {
 	content: "\e002";
 }
-.codrops-icon-next:before {
+.codrops-icon-next:after {
+    font-family: 'codropsicons';
+    margin: 0 4px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
 	content: "\e000";
 }
 .codrops-icon-about:before {
 	content: "\e003";
 }
 
-@media screen and (max-width: 25em) { 
+@media screen and (max-width: 25em) {
 	.codrops-icon span {
 		display: none;
 	}
