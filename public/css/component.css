@@ -77,9 +77,9 @@ html, body {
     background-color: rgba(255, 255, 255, 0.1);
     position: absolute;
     font-weight: 300;
-    margin: 200px auto;
+    margin: 190px auto;
     width: 100%;
-    max-height: 70%;
+    max-height: 73%;
     overflow: scroll;
     padding: 2% 22%;
     font-size: 120%;
@@ -91,7 +91,7 @@ html, body {
 }
 
 .small {
-    font-size: 80%;
+    font-size: 90%;
 }
 
 .contact-info {
